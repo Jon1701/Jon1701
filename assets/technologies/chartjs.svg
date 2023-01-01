@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   width="136.172"
+   height="157.23759"
+   viewBox="0 0 136.172 157.23759"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="chartjs.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <svg:defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="6.41875"
+     inkscape:cx="68.081792"
+     inkscape:cy="78.519961"
+     inkscape:window-width="3440"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <svg:title
+     id="title2">Artboard 6</svg:title>
+  <svg:g
+     fill="none"
+     fill-rule="evenodd"
+     id="g12"
+     transform="translate(-11.914,-1.3812)">
+    <svg:path
+       d="m 144.086,80.568 c -21.978,0.43 -17.402,14.346 -32.89,17.866 C 95.46,102.01 92.975,60 77.243,60 61.51,60 58.027,100.806 38.325,128.823 l -0.56,0.794 L 80,154 144.086,117 Z"
+       fill="#36a2eb"
+       id="path4" />
+    <svg:path
+       d="M 144.086,79.3 C 136.726,69.856 131.736,59 121,59 102,59 107,90 86,90 65,90 62.793,56.654 39,88 31.42,97.988 25.318,109.124 20.525,119.662 L 80,154 144.086,117 Z"
+       fill="#ffce56"
+       id="path6" />
+    <svg:path
+       d="M 15.914,92.143 C 23.124,72.173 26.237,56 40,56 c 21,0 26,59 44,53 18,-6 16,-38 44,-38 5.33,0 10.772,3.263 16.086,8.546 V 117 L 80,154 15.914,117 Z"
+       fill-opacity="0.8"
+       fill="#fe6184"
+       id="path8" />
+    <svg:path
+       stroke="#e7e9ed"
+       stroke-width="8"
+       d="m 80,6 64.086,37 v 74 L 80,154 15.914,117 V 43 Z"
+       id="path10" />
+  </svg:g>
+  <script />
+  <svg:metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Artboard 6</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+</svg:svg>
