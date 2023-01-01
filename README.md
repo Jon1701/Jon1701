@@ -11,18 +11,13 @@
   </div>
 </div>
 
-## :man: About Me
+## :man_technologist: Hi there, :wave: I'm Jon
 
-- :name_badge: Jon
-- :computer: Front-End Developer with 5 years professional experience
-- :hammer: Work in the React ecosystem
-- :telescope: Aspire to become a Full-Stack Developer
-- :mailbox: Connect on <span>
-  <a href="https://www.linkedin.com/in/jonbalon" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </span>
-- :link: Portfolio https://www.jonbalon.com
+- :computer: I'm a Front-End Developer with 5 years of professional experience
+- :hammer: I work in the React ecosystem
+- :telescope: I aspire to become a Full-Stack Developer
+- :link: My Portfolio Website is located at https://www.jonbalon.com/
+- :link: My LinkedIn profile is at https://www.linkedin.com/in/jonbalon/
 
 ## :hammer: Skills
 
