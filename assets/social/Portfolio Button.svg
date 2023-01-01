@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="45"
+   viewBox="0 0 0.5 0.15"
+   version="1.1"
+   id="svg300"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Portfolio.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview302"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.587745"
+     inkscape:cx="52.362192"
+     inkscape:cy="70.331505"
+     inkscape:window-width="1715"
+     inkscape:window-height="1371"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs297">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath268">
+      <path
+         d="M 0,1080 H 1920 V 0 H 0 Z"
+         id="path266" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath252">
+      <path
+         d="M 0,1080 H 1920 V 0 H 0 Z"
+         id="path250" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Rectangle"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#5e0000;fill-opacity:1;stroke:#ffffff;stroke-width:0.000953482"
+       id="rect1180"
+       width="0.49904653"
+       height="0.14904653"
+       x="0.00047674094"
+       y="0.00047674094" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Content"
+     transform="translate(-0.00569951,0.0070003)">
+    <g
+       id="g556"
+       inkscape:label="Logo"
+       transform="matrix(0.35275147,0,0,0.35275147,0.38189683,-0.09231398)">
+      <g
+         id="g583"
+         inkscape:label="Badge Background"
+         transform="matrix(0.59047767,0,0,0.59047767,0.25129163,0.30636489)">
+        <path
+           d="m 0,0 c 23.816,13.75 43.302,47.5 43.302,75 v 391.902 c 0,27.5 -19.486,61.25 -43.302,75 l -339.397,195.952 c -23.816,13.75 -62.787,13.75 -86.603,0 L -765.397,541.902 c -23.816,-13.75 -43.301,-47.5 -43.301,-75 V 75 c 0,-27.5 19.485,-61.25 43.301,-75 L -426,-195.951 c 23.816,-13.75 62.787,-13.75 86.603,0 z"
+           style="fill:#dc143c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path256"
+           transform="matrix(5.8685447e-4,0,0,-5.8685447e-4,0.02040901,0.40982547)"
+           inkscape:label="Outer" />
+        <path
+           d="m 0,0 c 23.815,13.75 43.302,47.5 43.302,75 v 302.85 c 0,27.5 -19.487,61.25 -43.302,75 l -262.275,151.424 c -23.816,13.75 -62.787,13.75 -86.602,0 L -611.152,452.85 c -23.816,-13.75 -43.302,-47.5 -43.302,-75 V 75 c 0,-27.5 19.486,-61.25 43.302,-75 l 262.275,-151.424 c 23.815,-13.75 62.786,-13.75 86.602,0 z"
+           style="fill:#af143c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path260"
+           inkscape:label="Inner"
+           transform="matrix(5.8685447e-4,0,0,-5.8685447e-4,-0.02485038,0.383695)" />
+        <path
+           d="m 0,0 c -43.336,0 -76.273,10.725 -98.8,32.175 -22.536,21.45 -36.186,50.589 -40.95,87.425 -2.6,21.226 7.15,31.85 29.25,31.85 9.1,0 15.925,-2.387 20.475,-7.15 4.55,-4.774 8.338,-12.137 11.375,-22.1 C -71.723,79.727 -45.5,58.5 0,58.5 c 27.727,0 48.313,7.576 61.75,22.75 13.427,15.163 20.15,38.563 20.15,70.2 v 282.1 c 0,9.963 2.702,17.652 8.125,23.075 5.413,5.413 12.889,8.125 22.425,8.125 19.927,0 29.9,-10.4 29.9,-31.2 V 151.45 C 142.35,105.514 131.188,68.788 108.875,41.275 86.552,13.752 50.264,0 0,0"
+           style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path272"
+           transform="matrix(5.8685447e-4,0,0,-5.8685447e-4,-0.21276018,0.38866897)"
+           inkscape:label="J" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:0.0888889px;font-family:'Zen Maru Gothic';-inkscape-font-specification:'Zen Maru Gothic Light';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.000666666"
+       x="0.19598083"
+       y="0.099688582"
+       id="text1202"
+       inkscape:label="Portfolio"><tspan
+         sodipodi:role="line"
+         id="tspan1200"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.0888889px;font-family:'Zen Maru Gothic';-inkscape-font-specification:'Zen Maru Gothic Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.000666666;stroke-opacity:1"
+         x="0.19598083"
+         y="0.099688582">Portfolio</tspan></text>
+  </g>
+</svg>

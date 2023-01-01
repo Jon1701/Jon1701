@@ -1,5 +1,14 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" style="width: 200px;" />
+  <img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" style="width: 275px;" />
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/jonbalon/">
+      <img src="./assets/social/LinkedIn Social Button.svg" />
+    </a>
+    <a href="https://www.jonbalon.com/">
+      <img src="./assets/social/Portfolio Button.svg" />
+    </a>
+  </div>
 </div>
 
 ## :man: About Me
