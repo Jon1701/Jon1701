@@ -3,8 +3,8 @@
 
 <svg
    width="150"
-   height="45"
-   viewBox="0 0 0.5 0.15"
+   height="45.000004"
+   viewBox="0 0 0.5 0.15000001"
    version="1.1"
    id="svg300"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -24,23 +24,25 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.587745"
-     inkscape:cx="39.416558"
-     inkscape:cy="100.86002"
+     inkscape:zoom="107.5556"
+     inkscape:cx="157.0583"
+     inkscape:cy="43.177667"
      inkscape:window-width="3440"
      inkscape:window-height="1371"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg300" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs297" />
   <g
      inkscape:label="Rectangle"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="stroke:none"
+     transform="matrix(1.0019106,0,0,1.0063972,-4.7765178e-4,-4.7979072e-4)">
     <rect
-       style="opacity:1;fill:#0077b5;fill-opacity:1;stroke:#ffffff;stroke-width:0.000953482"
+       style="display:inline;opacity:1;fill:#0077b5;fill-opacity:1;stroke:none;stroke-width:0.000953482"
        id="rect1180"
        width="0.49904653"
        height="0.14904653"
