@@ -41,8 +41,8 @@
 
 ## :bar_chart: Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jon1701&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jon1701&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats-git-masterrstaa-rickstaa)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jon1701&theme=dracula&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jon1701&layout=default&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jon1701&layout=default&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats-git-masterrstaa-rickstaa)
